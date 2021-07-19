@@ -1,0 +1,1 @@
+cat $1 | openssl enc -aes256 -md sha512 -pass pass:$KEY -d -base64 > $2

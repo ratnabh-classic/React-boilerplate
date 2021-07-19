@@ -1,0 +1,1387 @@
+{
+  "title": "Mudey",
+  "header": {
+    "logout": "Sair"
+  },
+  "footer": {
+    "rights": "Todos os direitos reservados.",
+    "created": "Criado em Portugal.",
+    "languages": "Mudar idioma"
+  },
+  "login": {
+    "title": "Entrar",
+    "footer_text": "Novo na Mudey?",
+    "form": {
+      "email": "Email",
+      "password": "Password",
+      "button": "Entrar"
+    }
+  },
+  "signup": {
+    "title": "Registar",
+    "footer_text": "Já és membro?",
+    "form": {
+      "name": "Nome",
+      "email": "Email",
+      "password": "Password",
+      "agree": "Aceito a política de proteção de dados e os termos de uso do site da MUDEY",
+      "button": "Registar"
+    }
+  },
+  "common": {
+    "change_button_text": "Alterar",
+    "form": {
+      "advance_button_text": "CONTINUAR",
+      "yes_button_text": "Sim",
+      "no_button_text": "Não",
+      "none_button_text": "Nenhuma"
+    }
+  },
+  "home": {
+    "title": "Seleciona qual o seguro que estás a procura:",
+    "subtitle": "(Seleciona uma opção)",
+    "not_sure_text": "NOT SURE?",
+    "coming_soon_text": "EM BREVE",
+    "options": {
+      "car": "CARRO",
+      "child": "CRIANÇA",
+      "drone": "DRONE",
+      "scooter": "TROTINETE",
+      "house": "CASA (MULTIRRISCOS)",
+      "bike": "BICICLETA",
+      "personalaccident": "ACIDENTES PESSOAIS",
+      "work": "ACIDENTES TRABALHO",
+      "thirdParty": "RESPONSABILIDADE CIVIL",
+      "trip": "VIAGEM",
+      "mota": "MOTA",
+      "health": "SAÚDE",
+      "life": "VIDA PROTEÇÃO",
+      "housekeeper": "EMP. DOMÉSTICA",
+      "pets": "ANIMAIS DOMÉSTICOS",
+      "mortgage": "VIDA CRÉDITO",
+      "other": "OUTROS",
+      "dental": "DENTÁRIO",
+      "family": "FAMÍLIA",
+      "criticalIllness": "DOENÇAS GRAVES"
+    }
+  },
+  "journeys": {
+    "trip": {
+      "title": "Seguro de Viagem",
+      "subtitle": "Para te apresentarmos as melhores opções, preencha esse formulário",
+      "form": {
+        "step1": {
+          "title": "Detalhes de Viagem",
+          "input1": {
+            "label": "Que tipo de seguro de viagem procuras?",
+            "tooltip": "Temporário - Para quando tens uma data de início e fim de viagem; Anual - Se planeias mais do que uma viagem por ano",
+            "option1Label": "Temporário",
+            "option2Label": "Anual / Multi-viagem"
+          }
+        },
+        "step2": {
+          "title": "Meios de Transporte"
+        },
+        "step3": {
+          "title": "Atividades"
+        }
+      }
+    },
+    "life": {
+      "title": "Seguro de Vida Proteção",
+      "subtitle": "subtitle",
+      "form": {
+        "step1": {
+          "title": "Insurance Type",
+          "input1": {
+            "label": "what kind of insurance are you looking for?"
+          }
+        },
+        "step2": {
+          "title": "Policy Finances",
+          "input1": {
+            "label": "What is the value of the capital in debt (still to be repaid)?"
+          },
+          "input2": {
+            "label": "When did these payments begin?"
+          }
+        }
+      }
+    },
+    "bike": {
+      "title": "Seguro de Bicicleta"
+    },
+    "health": {
+      "title": "Seguro de Saúde"
+    },
+    "child": {
+      "title": "Seguro de Criança"
+    },
+    "dental": {
+      "title": "Seguro Dentário"
+    },
+    "housekeeper": {
+      "title": "Seguro de Empregada Doméstica"
+    }
+  },
+  "travel": {
+    "journeys": {
+      "title": "Seguro de Viagem",
+      "subtitle": "Para te apresentarmos as melhores opções, preenche estas informações",
+      "form": {
+        "step1": {
+          "title": "Detalhes de Viagem",
+          "input1": {
+            "label": "Que tipo de seguro de viagem procuras?",
+            "tooltip": "Temporário - Para quando tens uma data de início e fim de viagem; Anual - Se planeias mais do que uma viagem por ano",
+            "option1Label": "Temporário",
+            "option2Label": "Anual / Multi-viagem"
+          }
+        },
+        "step2": {
+          "title": "Meios de Transporte"
+        },
+        "step3": {
+          "title": "Atividades"
+        }
+      }
+    }
+  },
+  "personal-accident": {
+    "journeys": {
+      "title": "Acidentes Pessoais"
+    }
+  },
+  "bike": {
+    "journeys": {
+      "title": "Seguro de Bicicleta"
+    }
+  },
+  "child": {
+    "journeys": {
+      "title": "Seguro de Crianças"
+    }
+  },
+  "life": {
+    "journeys": {
+      "title": "Sobre o Seguro",
+      "title2": "Sobre Ti",
+      "subtitle": "Para te apresentarmos as melhores opções, preencha esse formulário",
+      "form": {
+        "step1": {
+          "title": "Qual o motivo de estares à procura deste seguro?",
+          "option1": "Porque me foi recomendado",
+          "option2": "Quero comparar com o seguro que tenho atualmente",
+          "option3": "Para estar protegido(a) caso algo aconteça"
+        },
+        "step2": {
+          "title": "Qual o valor € que queres contratar?",
+          "tooltip": "O que seguro paga em caso de Morte"
+        },
+        "step3": {
+          "title": "Para além de Morte, o que queres que o seguro proteja?",
+          "option1": "Invalidez Total e Permanente",
+          "option2": "Invalidez Absoluta e Definitiva",
+          "option3": "Morte por Acidente de Circulação"
+        },
+        "step4": {
+          "title": "Qual a tua data de nascimento?"
+        },
+        "step5": {
+          "title": "Tens filhos menores?",
+          "option1": "Sim",
+          "option2": "Não"
+        },
+        "step6": {
+          "title": "Qual a tua profissão?"
+        },
+
+        "none": "Nenhuma"
+      }
+    }
+  },
+  "personal": {
+    "journeys": {
+      "title": "Acidentes Pessoais",
+      "subtitle": "Para te apresentarmos as melhores opções, preencha esse formulário",
+      "form": {
+        "step1": {
+          "title": "Detalhes do Seguro",
+          "input1": {
+            "label": "Qual o motivo para estares à procura deste seguro?"
+          },
+          "input2": {
+            "label": "Quanto queres receber, em caso de Morte ou Invalidez?",
+            "tooltip": "Este é o valor que será pago pelo seguro se o pior acontecer"
+          },
+          "input3": {
+            "label": "Para além de pagar por Morte ou Invalidez, o seguro deve incluir:"
+          },
+          "input4": {
+            "label": "Estado Civil"
+          }
+        },
+        "step2": {
+          "title": "Sobre ti",
+          "input1": {
+            "label": "O teu agregado familiar..."
+          },
+          "input2": {
+            "label": "Resides habitualmente em Portugal?"
+          },
+          "input3": {
+            "label": "Tens nº contribuinte português?"
+          },
+          "input4": {
+            "label": "Qual a tua idade?"
+          }
+        }
+      }
+    },
+    "extra": {
+      "title": "Questões Extra",
+      "step1": {
+        "title": "Dados dos Beneficiários",
+        "input1": {
+          "label": "Em caso de Morte, a quem deve a Seguradora pagar?"
+        },
+        "input2": {
+          "label": "Indica os dados do(s) beneficiário(s)"
+        }
+      },
+      "step2": {
+        "title": "Para a Seguradora",
+        "input1": {
+          "label": "Informações adicionais solicitadas pela seguradora."
+        },
+        "input2": {
+          "label": "Para completares a compra do seguro, assina digitalmente o documento de adesão, que será enviado para a Seguradora. Basta seguires as instruções, é muito simples"
+        }
+      }
+    }
+  },
+  "scooter": {
+    "journeys": {
+      "title": "Trotinete",
+      "subtitle": "Para te apresentarmos as melhores opções, preencha esse formulário",
+      "form": {
+        "step1": {
+          "title": "Detalhes do Seguro",
+          "input1": {
+            "label": "Qual o motivo para estares à procura deste seguro?"
+          },
+          "input2": {
+            "label": "Quanto queres receber, em caso de Morte ou Invalidez?",
+            "tooltip": "Este é o valor que será pago pelo seguro se o pior acontecer"
+          },
+          "input3": {
+            "label": "Para além de pagar por Morte ou Invalidez, o seguro deve incluir:"
+          },
+          "input4": {
+            "label": "Estado Civil"
+          }
+        },
+        "step2": {
+          "title": "Sobre ti",
+          "input1": {
+            "label": "O teu agregado familiar..."
+          },
+          "input2": {
+            "label": "Resides habitualmente em Portugal?"
+          },
+          "input3": {
+            "label": "Tens nº contribuinte português?"
+          },
+          "input4": {
+            "label": "Qual a tua idade?"
+          }
+        }
+      }
+    },
+    "extra": {
+      "title": "Questões Extra",
+      "step1": {
+        "title": "Dados dos Beneficiários",
+        "input1": {
+          "label": "Em caso de Morte, a quem deve a Seguradora pagar?"
+        },
+        "input2": {
+          "label": "Indica os dados do(s) beneficiário(s)"
+        }
+      },
+      "step2": {
+        "title": "Para a Seguradora",
+        "input1": {
+          "label": "Informações adicionais solicitadas pela seguradora."
+        },
+        "input2": {
+          "label": "Para completares a compra do seguro, assina digitalmente o documento de adesão, que será enviado para a Seguradora. Basta seguires as instruções, é muito simples"
+        }
+      }
+    }
+  },
+  "results": {
+    "title": "Resultados",
+    "subtitle_life": "Os preços apresentados são indicativos. Podem ser alterados após questionário sobre a tua saúde.",
+    "subtitle": "Pelas informações que deste, obtivemos os seguintes produtos para ti.",
+    "headers": {
+      "LIFE": {
+        "column_1": "SEGURADORA",
+        "column_2": "PREÇO",
+        "column_3": "MORTE",
+        "column_4": "INVALIDEZ TOTAL E PERMANENTE",
+        "column_5": "INVALIDEZ ABSOLUTA E DEFINITIVA",
+        "column_6": "MORTE ATÉ",
+        "column_7": "QUESTIONÁRIO SAÚDE",
+        "column_8": "IDADE PARA ADESÃO"
+      },
+      "TRAVEL": {
+        "column_1": "SEGURADORA",
+        "column_2": "PREÇO",
+        "column_3": "DESPESAS MÉDICAS",
+        "column_4": "RESPONSABILIDADE CIVIL",
+        "column_5": "MORTE OU INV. PERMANENTE",
+        "column_6": "PERDA BAGAGEM",
+        "column_7": "ATRASO VOO",
+        "column_8": "CANCELAMENTO VIAGEM",
+        "column_9": ""
+      },
+      "CHILD": {
+        "column_1": "SEGURADORA",
+        "column_2": "PREÇO",
+        "column_3": "RESPONSABILIDADE CIVIL",
+        "column_4": "MORTE",
+        "column_5": "INV. PERMANENTE",
+        "column_6": "DESPESAS TRATAMENTO",
+        "column_7": "DESPORTOS PERIGOSOS",
+        "column_8": "DESPESAS DE FUNERAL",
+        "column_9": ""
+      },
+      "ACCIDENTS": {
+        "column_1": "SEGURADORA",
+        "column_2": "PREÇO",
+        "column_3": "MORTE | INV PERMANENTE",
+        "column_4": "DESPESAS MEDICAS",
+        "column_5": "FRATURA DE OSSOS",
+        "column_6": "DESPORTOS PERIGOSOS",
+        "column_7": "SUBSIDIO HOSPITAL",
+        "column_8": "RESPONSAB. CIVIL",
+        "column_9": ""
+      },
+      "SCOOTER": {
+        "column_1": "SEGURADORA",
+        "column_2": "PREÇO",
+        "column_3": "MORTE | INV PERMANENTE",
+        "column_4": "DESPESAS MEDICAS",
+        "column_5": "FRATURA DE OSSOS",
+        "column_6": "DESPORTOS PERIGOSOS",
+        "column_7": "SUBSIDIO HOSPITAL",
+        "column_8": "RESPONSAB. CIVIL",
+        "column_9": ""
+      },
+      "BIKE": {
+        "column_1": "Seguradora",
+        "column_2": "Preço",
+        "column_3": "Responsabilidade Civil",
+        "column_4": "Morte / Inv. Permanente",
+        "column_5": "Despesas tratamento",
+        "column_6": "Assistência Viagem",
+        "column_7": "Despesas Funeral",
+        "column_8": "Tipo Bicicleta aceite",
+        "column_9": "Roubo"
+      },
+      "HOME": {
+        "column_1": "Seguradora",
+        "column_2": "Preço",
+        "column_3": "Tempestades",
+        "column_4": "Incêndio, Raio e Explosão",
+        "column_5": "Inundações",
+        "column_6": "Furto ou Roubo",
+        "column_7": "Riscos Eléctricos",
+        "column_8": "Fenómenos Sísmicos",
+        "column_9": "Aluimento de Terras",
+        "coverages": {
+          "base": {
+            "storms": "Tempestades",
+            "fire": "Incêndio, Raio e Explosão",
+            "flooding": "Inundações",
+            "landslide": "Aluimento de Terras",
+            "theft": "Furto ou Roubo",
+
+            "troubleshooting": "Pesquisa de Avarias",
+            "strikes": "Greves e Tumultos",
+            "vandalism": "Atos de Vandalismo",
+            "terrorism": "Atos de Terrorismo",
+
+            "glass": "Quebra Acidental Vidros, Espelhos, Pedras e Louças Sanitárias",
+            "water": "Danos por Água",
+            "tree": "Quebra Acidental de Árvores",
+            "aircraft": "Queda de Aeronaves",
+
+            "land": "Choque ou Impacto de Veículos Terrestres, Objetos Sólidos ou Animais",
+            "solar": "Quebra de Antenas e Painéis Solares",
+            "aesthetics": "Danos Estéticos",
+            "demolition": "Demolição e Remoção de Escombros",
+
+            "money": "Dinheiro",
+            "temporary": "Mudança Temporária"
+          },
+          "options": {
+            "electric": "Riscos Eléctricos",
+            "sismic": "Fenómenos Sísmicos",
+            "accident": "Danos Acidentais",
+            "car": "Veículos na Garagem",
+            "computer": "Equipamento informático",
+            "refrigerated": "Bens refrigerados",
+            "garden": "Bens do Jardim"
+          },
+          "complementary": {
+            "private": "Responsabilidade Civil Privada",
+            "owner": "Responsabilidade Civil de Proprietário",
+            "household": "Assistência Domiciliária e a Pessoas",
+            "legal": "Proteção Juridica",
+            "unemployment": "Proteção Desemprego Hosp incluindo Acidente e Doença",
+            "reconstitution": "Reconstituição Jardins",
+            "diy": "Bricolage"
+          },
+          "others": {
+            "heating": "Derrame de Líquidos de Instalações de Aquecimento",
+            "fireProtection": "Derrame Acidental de Sistemas de Proteção Contra Incêndio",
+            "repairs": "Reparações Provisórias ou Temporárias",
+            "architects": "Honorários de Arquitetos e Engenheiros",
+            "reconstruction": "Aumento do Custo de Reconstrução",
+            "rent": "Arrendamento de Residência Provisória"
+          }
+        },
+        "details": {
+          "base": {
+            "column_1": "Tempestades",
+            "column_2": "Incêndio, Raio e Explosão",
+            "column_3": "Inundações",
+            "column_4": "Aluimento de Terras",
+            "column_5": "Furto ou Roubo",
+            "column_6": "Pesquisa de Avarias",
+            "column_7": "Greves e Tumultos",
+            "column_8": "Atos de Vandalismo",
+            "column_9": "Atos de Terrorismo",
+            "column_10": "Quebra Acidental Vidros, Espelhos, Pedras e Louças Sanitárias",
+            "column_11": "Danos por Água",
+            "column_12": "Quebra Acidental de Árvores",
+            "column_13": "Queda de Aeronaves",
+            "column_14": "Choque ou Impacto de Veículos Terrestres, Objetos Sólidos ou Animais",
+            "column_15": "Quebra de Antenas e Painéis Solares",
+            "column_16": "Danos Estéticos",
+            "column_17": "Demolição e Remoção de Escombros",
+            "column_18": "Dinheiro",
+            "column_19": "Mudança Temporária"
+          },
+          "options": {
+            "column_1": "Riscos Eléctricos",
+            "column_2": "Fenómenos Sísmicos",
+            "column_3": "Danos Acidentais",
+            "column_4": "Veículos na Garagem",
+            "column_5": "Equipamento informático",
+            "column_6": "Bens refrigerados",
+            "column_7": "Bens do Jardim"
+          },
+          "complementary": {
+            "column_1": "Responsabilidade Civil Privada",
+            "column_2": "Responsabilidade Civil de Proprietário",
+            "column_3": "Assistência Domiciliária e a Pessoas",
+            "column_4": "Proteção Juridica",
+            "column_5": "Proteção Desemprego Hosp incluindo Acidente e Doença",
+            "column_6": "Reconstituição Jardins",
+            "column_7": "Bricolage"
+          },
+          "others": {
+            "column_1": "Derrame de Líquidos de Instalações de Aquecimento",
+            "column_2": "Derrame Acidental de Sistemas de Proteção Contra Incêndio",
+            "column_3": "Reparações Provisórias ou Temporárias",
+            "column_4": "Honorários de Arquitetos e Engenheiros",
+            "column_5": "Aumento do Custo de Reconstrução",
+            "column_6": "Arrendamento de Residência Provisória"
+          }
+        }
+      },
+      "CAR": {
+        "column_1": "Seguradora",
+        "column_2": "Preço",
+        "column_3": "Responsabilidade Civil",
+        "column_4": "Quebra Isolada de Vidros",
+        "column_5": "Assistência em Viagem",
+        "column_6": "Furto ou Roubo",
+        "column_7": "Fenómenos da Natureza",
+        "column_8": "Veículo de Substituição",
+        "column_9": "Choque, Colisão ou Capotamento",
+        "coverages": {
+          "base": {
+            "civilResponsability": "Responsabilidade Civil",
+            "glass": "Quebra Isolada de Vidros",
+            "travelAssistance": "Assistência em Viagem",
+
+            "legalProtection": "Proteção Jurídica",
+            "driverProtection": "Proteção Condutor",
+            "peopleTransported": "Pessoas Transportadas",
+
+            "theft": "Furto ou Roubo",
+            "nature": "Fenómenos da Natureza",
+            "replacementVehicle": "Veículo de Substituição",
+
+            "shockCollisionRollover": "Choque, Colisão ou Capotamento",
+            "fireExplosionLightning": "Incêndio, Raio ou Explosão",
+            "malicousActs": "Actos Maliciosos"
+          }
+        },
+        "details": {
+          "base": {
+            "column_1": "Responsabilidade Civil",
+            "column_2": "Quebra Isolada de Vidros",
+            "column_3": "Assistência em Viagem",
+            "column_4": "Proteção Jurídica",
+            "column_5": "Proteção Condutor",
+            "column_6": "Pessoas Transportadas",
+            "column_7": "Furto ou Roubo",
+            "column_8": "Fenómenos da Natureza",
+            "column_9": "Veículo de Substituição"
+          },
+          "danos": {
+            "column_1": "Choque, Colisão ou Capotamento",
+            "column_2": "Incêndio, Raio ou Explosão",
+            "column_3": "Actos Maliciosos"
+          }
+        }
+      },
+      "HEALTH": {
+        "column_1": "Seguradora",
+        "column_2": "Preço",
+        "column_3": "Ambulatório",
+        "column_4": "Rede",
+        "column_5": "Fisioterapia",
+        "column_6": "Internamento",
+        "column_7": "Parto & Cesariana",
+        "column_8": "Estomatologia",
+        "column_9": "Doenças Graves",
+        "coverages": {
+          "providerNetwork": "Rede Prestadores",
+
+          "ambulatory": {
+            "ambulatorySumAssured": "Consultas, Exames, Tratamentos, Análises",
+            "ophthalmology": "Oftalmologia",
+            "physiotherapy": "Fisioterapia"
+          },
+
+          "hospitalization": {
+            "hospitalizationSumAssured": "Hospitalização",
+            "pregnancySumAssured": "Parto, cesariana e interrupção gravidez",
+            "dailyAllowance": "Subsídio diário hospitalização"
+          },
+          "stomatology": {
+            "medicalActs": "Atos médicos"
+          },
+          "prosthesesOcularOrthoses": {
+            "eyeglassFrames": "Aros",
+            "eyeglassLenses": "Lentes de óculos",
+            "contactLenses": "Lentes de contacto",
+            "prosthesesOcularSumAssured": "Consultas, Tratamentos"
+          },
+          "seriousDiseases": {
+            "medicalActs": "Tratamentos cirúrgicos e não cirúrgicos"
+          },
+          "others": {
+            "secondMedicalOpinion": "2ª opinião médica",
+            "assistance": "Assistência",
+            "wellnessNetwork": "Rede Bem Estar",
+            "medicines": "Medicamentos"
+          },
+          "copayments": {
+            "hospitalization": "Hospitalização",
+            "officeApointments": "Consultas em consultório",
+            "urgencyApointments": "Consultas de urgência",
+            "physiotherapy": "Fisioterapia",
+            "medicalAnalysis": "Análises clinicas",
+            "ultrasound": "Ecografia",
+            "xray": "Raio X",
+            "ctScan": "TAC",
+            "mri": "Ressonância Magnética",
+            "seriousDiseases": "Doenças Graves"
+          },
+          "gracePeriod": {
+            "hospitalization": "Hospitalização",
+            "pregnancy": "Parto, Cesariana e Interrupção Gravidez",
+            "ambulatory": "Ambulatório",
+            "stomatology": "Estomatologia",
+            "seriousDiseases": "Doenças Graves",
+            "prosthesesOcularOrthoses": "Próteses e Ortóteses"
+          },
+          "exclusions": {
+            "preexistingIllnesses": "Doenças pré-existentes",
+            "accidentsBeforeInsurance": "Acidentes antes do inicio do seguro",
+            "plasticSurgery": "Cirurgia plástica ou estética",
+            "infertilityTreatment": "Tratamentos infertilidade",
+            "epidemicDiseases": "Doenças epidémicas",
+            "hemodialysisTransplants": "Hemodiálise e transplantes"
+          }
+        },
+        "details": {
+          "providerNetwork": {
+            "column_1": "Rede Prestadores"
+          },
+          "ambulatory": {
+            "column_1": "Consultas, Exames, Tratamentos, Análises",
+            "column_2": "Oftalmologia",
+            "column_3": "Fisioterapia"
+          },
+          "prosthesesOcularOrthoses": {
+            "column_1": "Consultas, Tratamentos",
+            "column_2": "Aros",
+            "column_3": "Lentes de óculos",
+            "column_4": "Lentes de contacto"
+          },
+          "seriousDiseases": {
+            "column_1": "Tratamentos cirúrgicos e não cirúrgicos"
+          },
+          "copayments": {
+            "column_1": "Hospitalização",
+            "column_2": "Consultas em consultório",
+            "column_3": "Consultas de urgência",
+            "column_4": "Fisioterapia",
+            "column_5": "Análises clinicas",
+            "column_6": "Ecografia",
+            "column_7": "Raio X",
+            "column_8": "Ressonância Magnética",
+            "column_9": "TAC",
+            "column_10": "Doenças Graves"
+          },
+          "hospitalization": {
+            "column_1": "Hospitalização",
+            "column_2": "Parto, cesariana e interrupção gravidez",
+            "column_3": "Subsídio diário hospitalização"
+          },
+          "stomatology": {
+            "column_1": "Atos médicos"
+          },
+          "others": {
+            "column_1": "2ª opinião médica",
+            "column_2": "Assistência",
+            "column_3": "Rede Bem Estar",
+            "column_4": "Medicamentos"
+          },
+          "gracePeriod": {
+            "column_1": "Hospitalização",
+            "column_2": "Parto, Cesariana e Interrupção Gravidez",
+            "column_3": "Ambulatório",
+            "column_4": "Estomatologia",
+            "column_5": "Doenças Graves",
+            "column_6": "Próteses e Ortóteses"
+          },
+          "exclusions": {
+            "column_1": "Doenças pré-existentes",
+            "column_2": "Acidentes antes do inicio do seguro",
+            "column_3": "Cirurgia plástica ou estética",
+            "column_4": "Tratamentos infertilidade",
+            "column_5": "Doenças epidémicas",
+            "column_6": "Hemodiálise e transplantes"
+          }
+        }
+      },
+
+      "DENTAL": {
+        "column_1": "Seguradora",
+        "column_2": "Preço",
+        "column_3": "Rede",
+        "column_4": "Consultas",
+        "column_5": "Tratamentos",
+        "column_6": "Período de carência",
+        "column_7": "Idade adesão",
+        "column_8": "Idade permanência",
+        "coverages": {
+          "providerNetwork": "Rede prestadores",
+          "insideNetwork": { "description": "Pagamentos dentro da Rede" },
+          "outsideNetwork": { "description": "Pagamentos fora da Rede" },
+          "base": {
+            "appointments": "Consultas",
+            "medicalActs": "Tratamentos",
+            "bemEstarNetwork": "Rede Bem-Estar",
+            "gracePeriod": "Período de carência"
+          },
+          "treatments": {
+            "prostheses": "Próteses",
+            "implants": "Implantes",
+            "restoration": "Restauração",
+            "whitening": "Branqueamentos",
+            "repairs": "Reparações",
+            "braces": "Aparelhos"
+          },
+          "copayments": {
+            "appointments": "Consultas",
+            "otherMedicalActs": "Tratamentos"
+          },
+          "eligibility": {
+            "eligibleAge": "Idade adesão",
+            "permanenceAge": "Idade permanência",
+            "children": "Crianças"
+          }
+        },
+        "details": {
+          "providerNetwork": {
+            "column_1": "Rede prestadores",
+            "column_2": "Pagamentos dentro da Rede",
+            "column_3": "Pagamentos fora da Rede"
+          },
+          "insideNetwork": {
+            "column_1": "Pagamentos dentro da Rede"
+          },
+          "outsideNetwork": {
+            "column_1": "Pagamentos fora da Rede"
+          },
+          "base": {
+            "column_1": "Consultas",
+            "column_2": "Tratamentos",
+            "column_3": "Rede Bem-Estar",
+            "column_4": "Período de carência"
+          },
+          "treatments": {
+            "column_1": "Próteses",
+            "column_2": "Implantes",
+            "column_3": "Restauração",
+            "column_4": "Branqueamentos",
+            "column_5": "Reparações",
+            "column_6": "Aparelhos"
+          },
+          "copayments": {
+            "column_1": "Consultas",
+            "column_2": "Tratamentos",
+            "column_3": "Despesas tratamento p/ acidente"
+          },
+          "eligibility": {
+            "column_1": "Idade adesão",
+            "column_2": "Idade permanência",
+            "column_3": "Crianças"
+          }
+        }
+      },
+      "HOUSEKEEPER": {
+        "column_1": "Seguradora",
+        "column_2": "Preço",
+        "column_3": "Salário anual coberto",
+        "column_4": "Subsídio Incapacidade Temp.",
+        "column_5": "Despesas Médicas",
+        "column_6": "Despesas Hospital e Cirúrgia",
+        "column_7": "Assistência ao Lar",
+        "column_8": "Contrato Trabalho",
+        "column_9": "Nomear Empregado",
+        "coverages": {
+          "base": {
+            "death": "Subsidio por Morte",
+            "funeral": "Subsidio por Despesas de Funeral",
+            "temporaryDisability": "Subsidio Incapacidade Temporária",
+            "medicalExpenses": "Despesas médicas e farmaceuticas",
+            "hospitalExpenses": "Despesas hospitalares e cirúrgicas"
+          },
+          "accidents": {
+            "work": "No local do trabalho",
+            "travelToWork": "Na deslocação de casa para o local de trabalho",
+            "travelFromWork": "Na deslocação do local de trabalho para casa",
+            "geography": "Geografia"
+          },
+          "complementary": {
+            "homeAssistance": "Assistência ao Lar",
+            "legalProtection": "Proteção Juridica"
+          },
+          "eligibility": {
+            "contract": "Contrato de trabalho",
+            "identification": "Identificação da Empregada/o"
+          },
+          "exclusions": {
+            "professionalDiseases": "Doenças Profissionais",
+            "accidents": "Acidentes devido a terrorismo, guerras e outros",
+            "hernias": "Hérnias com saco formado"
+          }
+        },
+        "details": {
+          "base": {
+            "column_1": "Subsidio por Morte",
+            "column_2": "Subsidio por Despesas de Funeral",
+            "column_3": "Subsidio Incapacidade Temporária",
+            "column_4": "Despesas médicas e farmaceuticas",
+            "column_5": "Despesas hospitalares e cirúrgicas"
+          },
+          "accidents": {
+            "column_1": "No local do trabalho",
+            "column_2": "Na deslocação de casa para o local de trabalho",
+            "column_3": "Na deslocação do local de trabalho para casa",
+            "column_4": "Geografia"
+          },
+          "complementary": {
+            "column_1": "Assistência ao Lar",
+            "column_2": "Proteção Juridica"
+          },
+          "eligibility": {
+            "column_1": "Contrato de trabalho",
+            "column_2": "Identificação da Empregada/o"
+          },
+          "exclusions": {
+            "column_1": "Doenças profissionais",
+            "column_2": "Acidentes devido a terrorismo, guerras e outros",
+            "column_3": "Hérnias com saco formado"
+          }
+        }
+      },
+      "BASE": {
+        "column_1": "Morte Por Acidente",
+        "column_2": "Invalidez Total e Permanente por Acidente"
+      },
+      "BASE_LIFE": {
+        "column_1": "Morte por Acidente ou Doença",
+        "column_2": "Invalidez Temporária e Absoluta por Acidente ou Doença",
+        "column_3": "Invalidez Absoluta e Definitiva"
+      },
+      "COMPLEMENTS": {
+        "column_1": "Reembolso de Despesas Médicas por Acidente",
+        "column_2": "Fraturas de Ossos por Acidente",
+        "column_3": "Responsabilidade Civil",
+        "column_4": "Subsidio Diário de Hospitalização por Acidente",
+        "column_5": "Incapacidade Diária por Acidente",
+        "column_6": "Subsidio Diário de Hospitalização por Doença",
+        "column_7": "Despesas de Funeral",
+        "column_8": "Prática Amadora de Desportos Perigosos",
+        "column_9": "Assistencia a pessoas"
+      },
+      "COMPLEMENTS_LIFE": {
+        "column_1": "Morte por Acidente",
+        "column_2": "Invalidez Total e Permanente por Acidente",
+        "column_3": "Filhos Menores a Cargo"
+      },
+      "ELEGIBILITY_LIFE": {
+        "column_1": "Idade aceite para adesão ao seguro",
+        "column_2": "Residência em",
+        "column_3": "Nr Contribuinte Português"
+      },
+      "ELEGIBILITY_AGE_LIFE": {
+        "column_1": "Para Morte",
+        "column_2": "Para Invalidez Absoluta e Definitiva",
+        "column_3": "Para Outras Coberturas"
+      },
+      "ELEGIBILITY": {
+        "column_1": "De actividades Profissionais",
+        "column_2": "De actividades Extra Profissionais",
+        "column_3": "Capital seguro aumenta todos os anos",
+        "column_4": "Idade Elegível",
+        "column_5": "Idade Limite",
+        "column_6": "Avaliação MUDEY",
+        "subtitle": "Estão cobertos acidentes que decorram:"
+      }
+    },
+    "resume": {
+      "ACCIDENTS": {
+        "column_1": "Valor total do seguro",
+        "column_2": "Seguro",
+        "column_3": "Seguradora",
+        "column_4": "Morte e Inv. Permanente",
+        "column_5": "Despesas Médicas",
+        "column_6": "Fratura de Ossos",
+        "column_7": "Subsídio Hospitalização",
+        "column_8": "Responsab. Civil",
+        "column_9": "Esportes Perigosos",
+        "insurance_package": "Nome do Produto"
+      }
+    },
+    "rate": {
+      "0": "Super Completo",
+      "1": "Completo",
+      "2": "Ok",
+      "3": "Pouco Completo",
+      "4": "Quase Nada"
+    },
+    "resume_exclusions": {
+      "ACCIDENTS": {
+        "description": "Estas informações são indicativas e não se trata de uma lista exaustiva. Deves ler com atenção toda a documentação."
+      }
+    },
+    "recommeded_header": "Indicado para ti",
+    "rating_text": "Quanto mais sorridente, mais completo é o produto!",
+    "rows": {
+      "per_person_text": "/pessoa",
+      "per_year_text": "/ano",
+      "per_trimester_text": "/trimestre",
+      "per_semester_text": "/semestre",
+      "per_month_text": "/mês",
+      "not_included_text": "Não incluido",
+      "more_info": {
+        "titles": {
+          "about_text": "Sobre a Seguradora",
+          "rating_text": "Avaliação Mudey",
+          "detail_text": "Estas informações são indicativas. Deves sempre ler, com atenção, a documentação de cada opção",
+          "document_text": "Documentos"
+        },
+        "coverages": {
+          "life_insurance": {
+            "baseInfo": {
+              "title": "BASE",
+              "death": "Morte por Acidente ou Doença",
+              "permanentTotalIncapacity": "Invalidez Temporária e Absoluta por Acidente ou Doença",
+              "absoluteDefinitiveIncapacity": "Invalidez Absoluta e Definitiva"
+            },
+            "eligibility": {
+              "title": "ELEGIBILIDADE",
+              "insuranceEnds": {
+                "forDeath": "Para Morte",
+                "forAbsoluteDefinitiveIncapacity": "Invalidez Absoluta e Definitiva",
+                "forOtherCoverages": "Para Outras Coberturas"
+              },
+              "eligibleAge": "Idade aceite para adesão ao seguro",
+              "residesIn": "Residência em",
+              "portugueseNif": "Nr Contribuinte Português"
+            },
+            "additionalInfo": {
+              "title": "ADICIONAIS",
+              "deathByAccident": "Dobro por Morte por Acidente",
+              "permanentTotalIncapacityByAccident": "Dobro por Incapacidade Temporária e Permanente por acidente",
+              "underageMinors": "Filhos Menores a Cargo"
+            }
+          },
+          "baseInfo": {
+            "title": "BASE",
+            "death": "Morte Por Acidente",
+            "permanentTotalIncapacity": "Invalidez Total e Permanente por Acidente",
+            "absoluteDefinitiveIncapacity": "Invalidez absoluta e definitiva",
+            "dailyAssistanceAllowance": "Subsidio Diário por Assistência",
+            "dailyAllowanceHospitalization": "Subsidio Diário em Caso de Internamento Hospitalar",
+            "civilResponsibility": "Responsabilidade civil",
+            "civilResponsabilityExpenses": "Responsabilidade civil",
+            "permanentInvalidity": "Invalidez Permanente",
+            "treatmentRepatriationExpenses": "Despesas Tratamento e Repatriamento"
+          },
+          "main": {
+            "title": "Principais"
+          },
+          "complementaryInfo": {
+            "title": "COMPLEMENTARES",
+            "reimbursementMedicalExpenses": "Reembolso de Despesas Médicas por Acidente",
+            "civilResponsability": "Responsabilidade Civil",
+            "brokenBones": "Fraturas de Ossos por Acidente",
+            "dailySubsidyAccident": "Subsidio Diário de Hospitalização por Acidente",
+            "dailyIncapacity": "Incapacidade Diária por Acidente",
+            "dailySubsidyIllness": "Subsidio Diário de Hospitalização por Doença",
+            "funeralExpenses": "Despesas de Funeral",
+            "dangerousSports": "Prática Amadora de Desportos Perigosos",
+            "peopleAssistance": "Assistencia a pessoas",
+            "educationExpenses": "Despesas de Educação",
+            "salvageSearchTransportationExpenses": "Despesas Salvamento, Busca e Transporte"
+          },
+          "conditions": {
+            "title": "Condições",
+            "appliesToChildren": "Aplica-se para crianças",
+            "deathCoverage": "Cobertura de morte para crianças"
+          },
+          "eligibility": {
+            "title": "ELEGIBILIDADE",
+            "subtitle": "Estão cobertos acidentes que decorram:",
+            "sumAssuredIncreasesEveryYear": "Capital seguro aumenta todos os anos",
+            "eligibleAge": "Idade Elegível",
+            "limiteAge": "Idade Limite",
+            "accidentsResultFrom": {
+              "professionalActivities": "De Actividades Profissionais",
+              "leisureActivities": "De Actividades Extra Profissionais"
+            }
+          },
+          "travelAssistance": {
+            "title": "Assistência em Viagem",
+            "medicalSurgicalPharmaHospitalExpenses": {
+              "title": "Despesas médicas, cirúrgicas, farmacêuticas e de hospitalização",
+              "ownCountryExpenses": "Em Portugal",
+              "foreignExpenses": "No estrangeiro",
+              "foreignAccidentExpenses": "Em caso de acidente em Portugal em trânsito para o estrangeiro"
+            },
+            "medicalExpenses": {
+              "title": "Despesas médicas",
+              "ownCountryAccidentExpenses": "Em Portugal em caso de acidente no estrangeiro",
+              "woundedSanitaryExpenses": "Transporte sanitário de feridos ou doentes e vigilância médica",
+              "woundedRepatriationExpenses": "Repatriamento de feridos ou doentes e vigilância médica para Portugal"
+            },
+            "hospitalTrackingExpenses": {
+              "title": "Acompanhamento da Pessoa Segura Hospitalizada",
+              "transportationExpenses": "Transporte",
+              "stayExpenses": "Estadia"
+            },
+            "familiarTripAndStayExpenses": {
+              "title": "Transporte de ida e volta para familiar e respectiva estadia",
+              "transportationExpenses": "Transporte",
+              "stayExpenses": "Estadia"
+            },
+            "extendedStayExpenses": {
+              "title": "Prolongamento de estadia",
+              "transportationExpenses": "Transporte",
+              "stayExpenses": "Estadia"
+            },
+            "repatriationAfterDeath": {
+              "title": "Repatriamento ou Transporte após morte da Pessoa Segura",
+              "transportationExpenses": "Transporte",
+              "urnExpenses": "Urna",
+              "stayExpenses": "Estadia",
+              "advanceFundsExpenses": "Adiantamento de fundos",
+              "localizationUrgencyDrugsExpenses": "Localização e envio de medicamentos de urgência",
+              "comunicationPaymentExpenses": "Pagamento de despesas de comunicação"
+            }
+          },
+          "civilResponsability": {
+            "title": "Responsabilidade civil",
+            "civilResponsabilityExpenses": "Responsabilidade civil"
+          },
+          "personalAccidents": {
+            "title": "Acidentes pessoais",
+            "deathOrPermanentDisabilityExpenses": "Morte ou invalidez permanente",
+            "temporaryCapacityLossExpenses": "Incapacidade temporária absoluta",
+            "funeralExpensesExpenses": "Despesas de funeral",
+            "funeralExpenses": "Despesas Funeral",
+            "permanentDeathInvalidity": "Morte ou invalidez permanente",
+            "medicalExpenses": "Despesas médicas"
+          },
+          "luggage": {
+            "title": "Bagagem",
+            "baggageLossTheftDamageExpenses": "Perda, dano ou roubo de bagagem",
+            "carryPersonalLuggageExpenses": "Transporte de bagagens pessoais perdidas",
+            "carryForgottenObjectExpenses": "Transporte de objetos esquecidos",
+            "documentsLossTheftExpenses": "Perda ou roubo de documentos",
+            "delayOnBaggageReceptionExpenses": "Atraso na recepção de bagagem",
+            "safesOpenRepairExpenses": "Abertura e reparação de cofres e caixas de seguração",
+            "homeKeysLossExpenses": "Perda de chaves do domicílio habitual"
+          },
+          "transport": {
+            "title": "Meios de transporte",
+            "connectionFlightLossExpenses": {
+              "title": "Perda de ligações aéreas",
+              "transportationExpenses": "Transporte",
+              "stayExpenses": "Estadia"
+            },
+            "flightDelayExpensesExpenses": {
+              "title": "Despesas por atraso no voo",
+              "transportationExpenses": "Transporte",
+              "stayExpenses": "Estadia"
+            },
+            "theft": "Roubo de Bicicleta",
+            "accidents": "Acidentes com o Meio de Transporte"
+          },
+          "cancelationInteruptionTrip": {
+            "title": "Cancelamento ou interrupção de viagem",
+            "earlyTripCancelationExpenses": "Cancelamento antecipado da viagem",
+            "tripInterruptionExpenses": "Interrupção de viagem"
+          },
+          "adventure": {
+            "title": "Atividades",
+            "searchRescueOnSkiResortExpenses": "Despesas e busca de salvamento em Estancia de Ski",
+            "refundSkiLessons": "Reembolso de Forfait e de Aulas de Ski"
+          },
+          "acceptanceType": " Tipo Bicicleta aceite",
+          "ambulatory": {
+            "column_1": "Consultas, Exames, Tratamentos, Análises",
+            "column_2": "Oftalmologia",
+            "column_3": "Fisioterapia"
+          },
+          "prosthesesOcularOrthoses": {
+            "column_1": "Consultas, Tratamentos",
+            "column_2": "Aros",
+            "column_3": "Lentes de óculos",
+            "column_4": "Lentes de contacto"
+          },
+          "seriousDiseases": {
+            "column_1": "Tratamentos cirúrgicos e não cirúrgicos"
+          },
+          "copayments": {
+            "column_1": "Hospitalização",
+            "column_2": "Consultas em consultório",
+            "column_3": "Consultas de urgência",
+            "column_4": "Fisioterapia",
+            "column_5": "Análises clinicas",
+            "column_6": "Ecografia",
+            "column_7": "Raio X",
+            "column_8": "Ressonância Magnética",
+            "column_9": "TAC",
+            "column_10": "Doenças Graves"
+          },
+          "hospitalization": {
+            "column_1": "Hospitalização",
+            "column_2": "Parto, cesariana e interrupção gravidez",
+            "column_3": "Subsídio diário hospitalização"
+          },
+          "stomatology": {
+            "column_1": "Tratamentos"
+          },
+          "others": {
+            "column_1": "2ª opinião médica",
+            "column_2": "Assistência",
+            "column_3": "Rede Bem Estar",
+            "column_4": "Medicamentos"
+          },
+          "gracePeriod": {
+            "column_1": "Hospitalização",
+            "column_2": "Parto, Cesariana e Interrupção Gravidez",
+            "column_3": "Ambulatório",
+            "column_4": "Estomatologia",
+            "column_5": "Doenças Graves",
+            "column_6": "Próteses e Ortóteses"
+          },
+          "exclusions": {
+            "column_1": "Doenças pré-existentes",
+            "column_2": "Acidentes antes do inicio do seguro",
+            "column_3": "Cirurgia plástica ou estética",
+            "column_4": "Tratamentos infertilidade",
+            "column_5": "Doenças epidémicas",
+            "column_6": "Hemodiálise e transplantes"
+          }
+        }
+      }
+    },
+    "actions": {
+      "buy_button_text": "Comprar",
+      "more_info_button_text": "Mais Info",
+      "hide_info_button_text": "Ocultar",
+      "document_1_button_text": "DIPS",
+      "document_2_button_text": "IPC",
+      "document_3_button_text": "Ficha Informativa",
+      "document_4_button_text": "Co-Pagamentos",
+      "document_5_button_text": "Política Privacidade da Metlife"
+    },
+    "filters": {
+      "back_button_text": "Voltar questionário",
+      "title": "Filtro",
+      "types": {
+        "order": {
+          "title": "Ordem"
+        },
+        "payment": {
+          "title": "Frequência de Pagamento"
+        },
+        "rating": {
+          "title": "Mudey Avaliação"
+        },
+        "coverage": {
+          "title": "Coberturas"
+        }
+      },
+      "actions": {
+        "apply_button_text": "APLICAR",
+        "clear_button_text": "Limpar filtros"
+      }
+    },
+    "compare_widget": {
+      "title": "Comparar até 3 opções",
+      "empty_selection": "Clica em “+” para selecionares 3 opções para comparares",
+      "actions": {
+        "compare_button_text": "Comparar",
+        "filter_button_text": "Filtro",
+        "selected_button_text": "selecionado"
+      }
+    }
+  },
+  "child": {
+    "journeys": {
+      "title": "Seguro de Criança"
+    }
+  },
+  "compare": {
+    "title": "Comparar resultados",
+    "travelAssistance": {
+      "medicalSurgicalPharmaHospitalExpenses": {
+        "ownCountryExpenses": "Medical, surgical, pharmaceutical, and hospitalization expenses [In Portugal]",
+        "foreignExpenses": "Medical, surgical, pharmaceutical, and hospitalization expenses [Abroad]",
+        "foreignAccidentExpenses": "Medical, surgical, pharmaceutical, and hospitalization expenses [In the event of an accident in Portugal in transit abroad]"
+      },
+      "medicalExpenses": {
+        "ownCountryAccidentExpenses": "Medical expenses [In Portugal in case of accident abroad]",
+        "woundedSanitaryExpenses": "Medical expenses [Sanitary transportation of the wounded or sick and medical surveillance]",
+        "woundedRepatriationExpenses": "Medical expenses [Repatriation of the wounded or sick and medical surveillance to Portugal]"
+      },
+      "hospitalTrackingExpenses": {
+        "transportationExpenses": "Monitoring of hospitalized Insured Person [Transport]",
+        "stayExpenses": "Monitoring of hospitalized Insured Person [Stay]"
+      },
+      "familiarTripAndStayExpenses": {
+        "transportationExpenses": "Round-trip transportation for family and respective stay [Transport]",
+        "stayExpenses": "Round-trip transportation for family and respective stay [Stay]"
+      },
+      "extendedStayExpenses": {
+        "transportationExpenses": "Stay extension [Transport]",
+        "stayExpenses": "Stay extension [Stay]"
+      },
+      "repatriationAfterDeath": {
+        "transportationExpenses": "Repatriation or Transport after death of the Insured Person [Transport]",
+        "urnExpenses": "Repatriation or Transport after death of the Insured Person [Urn]",
+        "stayExpenses": "Repatriation or Transport after death of the Insured Person [Stay]",
+        "advanceFundsExpenses": "Advance of funds",
+        "localizationUrgencyDrugsExpenses": "Locating and sending emergency medicines",
+        "comunicationPaymentExpenses": "Payment of communication expenses"
+      }
+    },
+    "transport": {
+      "connectionFlightLossExpenses": {
+        "transportationExpenses": "Loss of air connections [Transport]",
+        "stayExpenses": "Loss of air connections [Stay]"
+      },
+      "flightDelayExpensesExpenses": {
+        "transportationExpenses": "Expenses for delayed flight [Transport]",
+        "stayExpenses": "Expenses for delayed flight [Stay]"
+      }
+    },
+    "cancelationInteruptionTrip": {
+      "earlyTripCancelationExpenses": "Early travel cancellation",
+      "tripInterruptionExpenses": "Trip interruption"
+    },
+    "luggage": {
+      "baggageLossTheftDamageExpenses": "Loss, damage or theft of luggage",
+      "carryPersonalLuggageExpenses": "Transport of personal luggage",
+      "carryForgottenObjectExpenses": "Transport of forgotten objects",
+      "documentsLossTheftExpenses": "Loss or Theft of Documents",
+      "delayOnBaggageReceptionExpenses": "Luggage Reception Delay",
+      "safesOpenRepairExpenses": "Opening and Repairing Safes and Safety Boxes",
+      "homeKeysLossExpenses": "Loss of Keys to Usual Home"
+    },
+    "personalAccidents": {
+      "deathOrPermanentDisabilityExpenses": "Death or permanent disability",
+      "temporaryCapacityLossExpenses": "Absolute Temporary Disability",
+      "funeralExpensesExpenses": "Despesas Funeral"
+    },
+    "civilResponsability": {
+      "civilResponsabilityExpenses": "Civil responsability"
+    },
+    "adventure": {
+      "searchRescueOnSkiResortExpenses": "Ski Resort Expenses and Rescue",
+      "refundSkiLessons": "Refund of Ski Pass and Classrooms"
+    }
+  },
+  "summary": {
+    "travel": {
+      "title": "O teu seguro",
+      "subtitle": "Preenche todos os dados sobre o tomador do seguro e sobre a pessoa segura.",
+      "subtitlePlural": "Preenche todos os dados sobre o tomador do seguro e sobre a(s) pessoa(s) segura(s).",
+      "forms": {
+        "account_holder": {
+          "title": "Dados Tomador do Seguro",
+          "fields": {
+            "name": {
+              "title": "Nome completo",
+              "error": "Falta preencheres este campo"
+            },
+            "birthday": {
+              "title": "Data de Nascimento",
+              "error": "Falta preencheres este campo"
+            },
+            "sex": {
+              "title": "Sexo (F/M)",
+              "error": "Tens de escolher uma opção"
+            },
+            "nif": {
+              "title": "Número de Identificação Fiscal (NIF)",
+              "error": "Tens de indicar o número"
+            },
+            "address": {
+              "title": "Endereço",
+              "error": "Falta preencheres este campo"
+            },
+            "postalcode": {
+              "title": "Código Postal",
+              "error": "Falta preencheres este campo"
+            },
+            "contact": {
+              "title": "Telemóvel",
+              "error": "Falta preencheres este campo",
+              "tooltip": "Para situações importantes em que precisamos de te contactar ou a Seguradora (por exemplo, sinistro, renovação do seguro)"
+            },
+            "email": {
+              "title": "Endereço de e-mail",
+              "error": "Falta preencheres este campo"
+            },
+            "mudeyterms": {
+              "title": "Aceito a Politica de Protecção de Dados e Termos de Utilização do Website da MUDEY",
+              "error": "Falta preencheres este campo"
+            },
+            "portugalresidence": {
+              "title": "Confirmo que sou residente em Portugal",
+              "error": "Falta preencheres este campo"
+            },
+            "disablement": {
+              "title": "Não sofro de qualquer grau de invalidez nem me encontro em processo de reconhecimento de invalidez",
+              "error": "Falta preencheres este campo"
+            },
+            "dataTreatmentMetlife": {
+              "title": "Autorizo o tratamento dos meus dados de saúde para a finalidade de subscrição e gestão do seguro pela MetLife, de acordo com a Política de Privacidade disponível em “Documentos Importantes”",
+              "error": "Falta preencheres este campo"
+            },
+            "profession": {
+              "title": "Profissão",
+              "error": "Tens de escolher uma opção"
+            }
+          }
+        },
+        "travelers": {
+          "title": "Dados(s) do(s) Viajante(s)",
+          "traveler_text": "Viajante",
+          "is_policyholder": "O tomador do seguro é o viajante 1"
+        },
+        "personal_accidents": {
+          "title": "Dados da Pessoa Segura",
+          "traveler_text": "Pessoa Segura",
+          "is_policyholder": "O Tomador do Seguro é a Pessoa Segura"
+        },
+        "scooter": {
+          "title": "Dados da Pessoa Segura",
+          "traveler_text": "Pessoa Segura",
+          "is_policyholder": "O Tomador do Seguro é a Pessoa Segura"
+        },
+        "payment": {
+          "title": "Pagamento",
+          "fields": {
+            "payment_anual": {
+              "title": "Valor a Pagar",
+              "subtitle": "A seguradora cobra mais por pagares em prestações.",
+              "error": "Falta preencheres este campo"
+            },
+            "carddetails": {
+              "title": "Metodo de Pagamento",
+              "error": "Falta preencheres este campo"
+            }
+          }
+        },
+        "declarations": {
+          "title": "Declarações importantes",
+          "fields": {
+            "termsconditions": {
+              "title": "Li e concordo com todos os documentos de informações sobre este seguro e ficha informativa",
+              "error": "Falta preencheres este campo"
+            }
+          },
+          "actions": {
+            "advance_button_text": "AVANÇAR"
+          }
+        }
+      }
+    },
+    "package_info": {
+      "coverage": {
+        "title": "RESUMO DA COBERTURA"
+      },
+      "details": {
+        "title": "MEUS DETALHES"
+      },
+      "insurance": {
+        "title": "SOBRE A SEGURADORA"
+      },
+      "insurance_resume": {
+        "title": "EXCLUSÕES IMPORTANTES"
+      },
+      "documents": {
+        "title": "DOCUMENTOS IMPORTANTES"
+      }
+    },
+    "actions": {
+      "back_button_text": "Voltar aos resultados",
+      "close": "FECHAR"
+    }
+  },
+  "error_page": {
+    "not_found": {
+      "description": "Foste por um caminho desconhecido (aka erro 404)",
+      "back": "O melhor é voltares à página principal"
+    }
+  }
+}

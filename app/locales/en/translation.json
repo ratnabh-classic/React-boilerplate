@@ -1,0 +1,674 @@
+{
+  "title": "Mudey",
+  "header": {
+    "logout": "Logout"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "created": "Created in Portugal.",
+    "languages": "Switch Language"
+  },
+  "login": {
+    "title": "Login",
+    "footer_text": "New to Mudey?",
+    "form": {
+      "email": "Email",
+      "password": "Password",
+      "button": "Login"
+    }
+  },
+  "signup": {
+    "title": "Register",
+    "footer_text": "Already member?",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "password": "Password",
+      "agree": "I accept the Data Protection Policy and Terms of Use of the MUDEY Website",
+      "button": "Register"
+    }
+  },
+  "common": {
+    "change_button_text": "Change",
+    "form": {
+      "advance_button_text": "ADVANCE",
+      "yes_button_text": "Yes",
+      "no_button_text": "No",
+      "none_button_text": "None"
+    }
+  },
+  "home": {
+    "title": "Tell us what type of insurance you are looking for:",
+    "subtitle": "(select an option)",
+    "not_sure_text": "NOT SURE?",
+    "coming_soon_text": "COMING SOON",
+    "options": {
+      "car": "CAR",
+      "child": "CHILD",
+      "drone": "DRONE",
+      "scooter": "SCOOTER",
+      "personalaccident": "PERSONAL ACCIDENT",
+      "house": "HOUSE",
+      "bike": "BIKE",
+      "trip": "TRIP",
+      "mota": "MOTA",
+      "health": "HEALTH",
+      "life": "LIFE PROTECTION",
+      "housekeeper": "HOUSEKEEPER",
+      "pets": "PETS",
+      "other": "OTHER",
+      "dental": "DENTAL",
+      "work": "WORK ACCIDENT",
+      "thirdParty": "THIRD PARTY"
+    }
+  },
+  "journeys": {
+    "trip": {
+      "title": "Travel insurance",
+      "subtitle": "Let's go take care of your Travel Insurance. In order to present you with the best options, we need you to provide us with some information.",
+      "form": {
+        "step1": {
+          "title": "Travel Details",
+          "input1": {
+            "label": "What type of Travel Insurance are you looking for?",
+            "tooltip": "Temporary - for when you have a departure and return date; Annual - if you plan to make several trips throughout the year",
+            "option1Label": "Temporary",
+            "option2Label": "Annual / Multi-travel"
+          }
+        },
+        "step2": {
+          "title": "Means of transport"
+        },
+        "step3": {
+          "title": "Activities"
+        }
+      }
+    },
+    "life": {
+      "title": "Life Insurance",
+      "subtitle": "subtitle",
+      "form": {
+        "step1": {
+          "title": "Insurance Type",
+          "input1": {
+            "label": "what kind of insurance are you looking for?"
+          }
+        },
+        "step2": {
+          "title": "Policy Finances",
+          "input1": {
+            "label": "What is the value of the capital in debt (still to be repaid)?"
+          },
+          "input2": {
+            "label": "When did these payments begin?"
+          }
+        }
+      }
+    }
+  },
+  "travel": {
+    "journeys": {
+      "title": "Travel insurance",
+      "subtitle": "Let's go take care of your Travel Insurance. In order to present you with the best options, we need you to provide us with some information.",
+      "form": {
+        "step1": {
+          "title": "Travel Details",
+          "input1": {
+            "label": "What type of Travel Insurance are you looking for?",
+            "tooltip": "Temporary - for when you have a departure and return date; Annual - if you plan to make several trips throughout the year",
+            "option1Label": "Temporary",
+            "option2Label": "Annual / Multi-travel"
+          }
+        },
+        "step2": {
+          "title": "Means of transport"
+        },
+        "step3": {
+          "title": "Activities"
+        }
+      }
+    }
+  },
+  "bike": {
+    "journeys": {
+      "title": "Bike Insurance"
+    }
+  },
+  "life": {
+    "journeys": {
+      "title": "Life Insurance",
+      "subtitle": "subtitle",
+      "form": {
+        "step1": {
+          "title": "Insurance Type",
+          "input1": {
+            "label": "what kind of insurance are you looking for?"
+          }
+        },
+        "step2": {
+          "title": "Policy Finances",
+          "input1": {
+            "label": "What is the value of the capital in debt (still to be repaid)?"
+          },
+          "input2": {
+            "label": "When did these payments begin?"
+          }
+        }
+      }
+    },
+    "extra": {
+      "title": "Extra Questions",
+      "step1": {
+        "title": "Beneficiaries info",
+        "input1": {
+          "label": "In case of death, to whom should be insurance company pay?"
+        },
+        "input2": {
+          "label": "Beneficiaries details"
+        }
+      },
+      "step2": {
+        "title": "For the insurance company"
+      }
+    }
+  },
+  "results": {
+    "title": "Quote Results",
+    "subtitle": "Based on your info, these are the best options for you.",
+    "headers": {
+      "CAR": {
+        "column_1": "Seguradora",
+        "column_2": "Preço",
+        "column_3": "Responsabilidade Civil",
+        "column_4": "Quebra Isolada de Vidros",
+        "column_5": "Assistência em Viagem",
+        "column_6": "Furto ou Roubo",
+        "column_7": "Fenómenos da Natureza",
+        "column_8": "Veículo de Substituição"
+      },
+      "TRAVEL": {
+        "column_1": "INSURANCE",
+        "column_2": "PRICE",
+        "column_3": "MEDICAL EXPENSES",
+        "column_4": "CIVIL RESPONSABILITY",
+        "column_5": "DEATH OR PERMANENT INV.",
+        "column_6": "LUGGAGE LOSS",
+        "column_7": "FLIGHT DELAY",
+        "column_8": "EVALUATION",
+        "column_9": ""
+      },
+      "ACCIDENTS": {
+        "column_1": "INSURANCE",
+        "column_2": "PRICE",
+        "column_3": "DEATH | TOTAL INCAPACITY",
+        "column_4": "MEDICAL EXPENSES",
+        "column_5": "BROKEN BONES",
+        "column_6": "DANGEROUS SPORTS",
+        "column_7": "Hospitalização Subsidy",
+        "column_8": "Funeral Expenses",
+        "column_9": ""
+      },
+      "CHILD": {
+        "column_1": "INSURANCE",
+        "column_2": "PRICE",
+        "column_3": "CIVIL RESPONSABILITY",
+        "column_4": "DEATH",
+        "column_5": "PERMANENT INV.",
+        "column_6": "TREAT AND REPAT EXPENSES",
+        "column_7": "DANGEROUS SPORTS",
+        "column_8": "FUNERAL EXPENSES",
+        "column_9": ""
+      },
+      "HOUSEKEEPER": {
+        "column_1": "Insurance",
+        "column_2": "Price",
+        "column_3": "Covered annual income",
+        "column_4": "Temporary disability allowance",
+        "column_5": "Medical and pharmaceutical expenses",
+        "column_6": "Hospital and surgical expenses",
+        "column_7": "Home assistance",
+        "column_8": "Employment contract",
+        "column_9": "Employee Identification",
+        "coverages": {
+          "base": {
+            "death": "Death",
+            "funeral": "Funeral",
+            "temporaryDisability": "Temporary Disability Allowance",
+            "medicalExpenses": "Medical and pharmaceutical expenses",
+            "hospitalExpenses": "Hospital expenses"
+          },
+          "accidents": {
+            "work": "Hospital and surgical expenses",
+            "travelToWork": "When traveling from home to the workplace",
+            "travelFromWork": "When commuting home from work",
+            "geography": "Geography"
+          },
+          "complementary": {
+            "homeAssistance": "Home assistance",
+            "legalProtection": "Legal protection"
+          },
+          "eligibility": {
+            "contract": "Employment contract",
+            "identification": "Employee Identification"
+          },
+          "exclusions": {
+            "professionalDiseases": "Professional diseases",
+            "accidents": "Accidents",
+            "hernias": "Hernias"
+          }
+        },
+        "details": {
+          "base": {
+            "column_1": "Death",
+            "column_2": "Funeral",
+            "column_3": "Temporary Disability Allowance",
+            "column_4": "Medical and pharmaceutical expenses",
+            "column_5": "Hospital expenses"
+          },
+          "accidents": {
+            "column_1": "Hospital and surgical expenses",
+            "column_2": "When traveling from home to the workplace",
+            "column_3": "Travel from work",
+            "column_4": "Geography"
+          },
+          "complementary": {
+            "column_1": "Home assistance",
+            "column_2": "Legal protection"
+          },
+          "eligibility": {
+            "column_1": "Employment contract",
+            "column_2": "Employee Identification"
+          },
+          "exclusions": {
+            "column_1": "Professional diseases",
+            "column_2": "Accidents",
+            "column_3": "Hernias"
+          }
+        }
+      },
+      "BASE": {
+        "column_1": "Death",
+        "column_2": "Permanent and total incapacity"
+      },
+      "COMPLEMENTS": {
+        "column_1": "Reimbursement of medical expenses",
+        "column_2": "Broken bones",
+        "column_3": "Civil responsability",
+        "column_4": "Daily hospitalisation subsidy due to accident",
+        "column_5": "Daily Incapacity",
+        "column_6": "Daily hospitalisation subsidy due to illness",
+        "column_7": "Funeral expenses",
+        "column_8": "Practice of dangerous sports",
+        "column_9": "Assistência a Pessoas"
+      },
+      "ELEGIBILITY": {
+        "column_1": "Professional activities",
+        "column_2": "Leisure activities",
+        "column_3": "Sum assured increases every year",
+        "column_4": "Elegible age",
+        "column_5": "Limit age",
+        "column_6": "Rating MUDEY",
+        "subtitle": "Cover accidents that result from:"
+      }
+    },
+    "resume": {
+      "ACCIDENTS": {
+        "column_1": "Insurance value",
+        "column_2": "Tipo do Seguro",
+        "column_3": "Insurance Company",
+        "column_4": "Death and Permanent Incapacity",
+        "column_5": "Medicas Expenses",
+        "column_6": "Broken Bone",
+        "column_7": "Hospitalization Subsidy",
+        "column_8": "Funeral Expenses",
+        "column_9": "Dangerous Sports",
+        "insurance_package": "Product Name"
+      }
+    },
+    "resume_exclusions": {
+      "ACCIDENTS": {
+        "description": "This information is indicative and is not an exhaustive list. You must read all the documentation carefully."
+      }
+    },
+    "recommeded_header": "Recommended for you",
+    "rating_text": "The more smiling, the more complete the product is!",
+    "rows": {
+      "per_person_text": "/person",
+      "per_year_text": "/year",
+      "not_included_text": "Not Included",
+      "more_info": {
+        "titles": {
+          "about_text": "About the Insurer",
+          "rating_text": "Mudey Rating",
+          "detail_text": "This information is indicative. You should always carefully read the documentation for each option",
+          "document_text": "Documents"
+        },
+        "coverages": {
+          "baseInfo": {
+            "title": "BASE",
+            "death": "Accidental Death",
+            "permanentTotalIncapacity": "Total and Permanent Disability due to Accident"
+          },
+          "complementaryInfo": {
+            "title": "COMPLEMENTARES",
+            "reimbursementMedicalExpenses": "Accidental Death",
+            "civilResponsability": "Civil responsability",
+            "brokenBones": "Accident Bone Fractures",
+            "dailySubsidyAccident": "Accident Daily Allowance",
+            "dailyIncapacity": "Daily Disability due to Accident",
+            "dailySubsidyIllness": "Daily Hospitalization Allowance for Illness",
+            "funeralExpenses": "Funeral Expenses",
+            "dangerousSports": "Amateur Practice of Dangerous Sports",
+            "peopleAssistance": "People Assistance"
+          },
+          "eligibility": {
+            "title": "ELEGIBILIDADE",
+            "subtitle": "Accidents occurring are covered:",
+            "sumAssuredIncreasesEveryYear": "Insurance capital increases every year",
+            "eligibleAge": "Elegible Age",
+            "limiteAge": "Limit Age",
+            "accidentsResultFrom": {
+              "professionalActivities": "De actividades Profissionais",
+              "leisureActivities": "Extra Professional Activities"
+            }
+          },
+          "travelAssistance": {
+            "title": "Travel Assistance",
+            "medicalSurgicalPharmaHospitalExpenses": {
+              "title": "Medical, surgical, pharmaceutical, and hospitalization expenses",
+              "ownCountryExpenses": "In Portugal",
+              "foreignExpenses": "Abroad",
+              "foreignAccidentExpenses": "In the event of an accident in Portugal in transit abroad"
+            },
+            "medicalExpenses": {
+              "title": "Medical expenses",
+              "ownCountryAccidentExpenses": "In Portugal in case of accident abroad",
+              "woundedSanitaryExpenses": "Sanitary transportation of the wounded or sick and medical surveillance",
+              "woundedRepatriationExpenses": "Repatriation of the wounded or sick and medical surveillance to Portugal"
+            },
+            "hospitalTrackingExpenses": {
+              "title": "Monitoring of hospitalized Insured Person",
+              "transportationExpenses": "Transport",
+              "stayExpenses": "Stay"
+            },
+            "familiarTripAndStayExpenses": {
+              "title": "Round-trip transportation for family and respective stay",
+              "transportationExpenses": "Transport",
+              "stayExpenses": "Stay"
+            },
+            "extendedStayExpenses": {
+              "title": "Stay extension",
+              "transportationExpenses": "Transport",
+              "stayExpenses": "Stay"
+            },
+            "repatriationAfterDeath": {
+              "title": "Repatriation or Transport after death of the Insured Person",
+              "transportationExpenses": "Transport",
+              "urnExpenses": "Urn",
+              "stayExpenses": "Stay",
+              "advanceFundsExpenses": "Advance of funds",
+              "localizationUrgencyDrugsExpenses": "Locating and sending emergency medicines",
+              "comunicationPaymentExpenses": "Payment of communication expenses"
+            }
+          },
+          "civilResponsability": {
+            "title": "Civil Responsibility",
+            "civilResponsabilityExpenses": "Civil responsability"
+          },
+          "personalAccidents": {
+            "title": "Personal Accidents",
+            "deathOrPermanentDisabilityExpenses": "Death or permanent disability",
+            "temporaryCapacityLossExpenses": "Absolute Temporary Disability",
+            "funeralExpensesExpenses": "Funeral expenses"
+          },
+          "luggage": {
+            "title": "Baggage",
+            "baggageLossTheftDamageExpenses": "Loss, damage or theft of luggage",
+            "carryPersonalLuggageExpenses": "Transport of personal luggage",
+            "carryForgottenObjectExpenses": "Transport of forgotten objects",
+            "documentsLossTheftExpenses": "Loss or Theft of Documents",
+            "delayOnBaggageReceptionExpenses": "Luggage Reception Delay",
+            "safesOpenRepairExpenses": "Opening and Repairing Safes and Safety Boxes",
+            "homeKeysLossExpenses": "Loss of Keys to Usual Home"
+          },
+          "transport": {
+            "title": "Means of Transport",
+            "connectionFlightLossExpenses": {
+              "title": "Loss of air connections",
+              "transportationExpenses": "Transport",
+              "stayExpenses": "Stay"
+            },
+            "flightDelayExpensesExpenses": {
+              "title": "Expenses for delayed flight",
+              "transportationExpenses": "Transport",
+              "stayExpenses": "Stay"
+            }
+          },
+          "cancelationInteruptionTrip": {
+            "title": "Cancellation or Travel Interruption",
+            "earlyTripCancelationExpenses": "Early travel cancellation",
+            "tripInterruptionExpenses": "Trip interruption"
+          },
+          "adventure": {
+            "title": "Adventure",
+            "searchRescueOnSkiResortExpenses": "Ski Resort Expenses and Rescue",
+            "refundSkiLessons": "Refund of Ski Pass and Classrooms"
+          }
+        }
+      }
+    },
+    "actions": {
+      "buy_button_text": "Buy",
+      "more_info_button_text": "More Info",
+      "hide_info_button_text": "Hide Info",
+      "document_1_button_text": "Document 1",
+      "document_2_button_text": "Document 2"
+    },
+    "filters": {
+      "back_button_text": "Back questionnaire",
+      "title": "Filter",
+      "types": {
+        "order": {
+          "title": "Order"
+        },
+        "payment": {
+          "title": "Payment frequency"
+        },
+        "rating": {
+          "title": "Mudey rating"
+        },
+        "coverage": {
+          "title": "Coverages"
+        }
+      },
+      "actions": {
+        "apply_button_text": "Apply",
+        "clear_button_text": "Clear Filters"
+      }
+    },
+    "compare_widget": {
+      "title": "Compare (select up to 3 providers)",
+      "empty_selection": "Click “+” in order to select 3 options to compare",
+      "actions": {
+        "compare_button_text": "Compare",
+        "filter_button_text": "Filter",
+        "selected_button_text": "Selected"
+      }
+    }
+  },
+
+  "compare": {
+    "title": "Compare results",
+    "travelAssistance": {
+      "medicalSurgicalPharmaHospitalExpenses": {
+        "ownCountryExpenses": "Medical, surgical, pharmaceutical, and hospitalization expenses [In Portugal]",
+        "foreignExpenses": "Medical, surgical, pharmaceutical, and hospitalization expenses [Abroad]",
+        "foreignAccidentExpenses": "Medical, surgical, pharmaceutical, and hospitalization expenses [In the event of an accident in Portugal in transit abroad]"
+      },
+      "medicalExpenses": {
+        "ownCountryAccidentExpenses": "Medical expenses [In Portugal in case of accident abroad]",
+        "woundedSanitaryExpenses": "Medical expenses [Sanitary transportation of the wounded or sick and medical surveillance]",
+        "woundedRepatriationExpenses": "Medical expenses [Repatriation of the wounded or sick and medical surveillance to Portugal]"
+      },
+      "hospitalTrackingExpenses": {
+        "transportationExpenses": "Monitoring of hospitalized Insured Person [Transport]",
+        "stayExpenses": "Monitoring of hospitalized Insured Person [Stay]"
+      },
+      "familiarTripAndStayExpenses": {
+        "transportationExpenses": "Round-trip transportation for family and respective stay [Transport]",
+        "stayExpenses": "Round-trip transportation for family and respective stay [Stay]"
+      },
+      "extendedStayExpenses": {
+        "transportationExpenses": "Stay extension [Transport]",
+        "stayExpenses": "Stay extension [Stay]"
+      },
+      "repatriationAfterDeath": {
+        "transportationExpenses": "Repatriation or Transport after death of the Insured Person [Transport]",
+        "urnExpenses": "Repatriation or Transport after death of the Insured Person [Urn]",
+        "stayExpenses": "Repatriation or Transport after death of the Insured Person [Stay]",
+        "advanceFundsExpenses": "Advance of funds",
+        "localizationUrgencyDrugsExpenses": "Locating and sending emergency medicines",
+        "comunicationPaymentExpenses": "Payment of communication expenses"
+      }
+    },
+    "transport": {
+      "connectionFlightLossExpenses": {
+        "transportationExpenses": "Loss of air connections [Transport]",
+        "stayExpenses": "Loss of air connections [Stay]"
+      },
+      "flightDelayExpensesExpenses": {
+        "transportationExpenses": "Expenses for delayed flight [Transport]",
+        "stayExpenses": "Expenses for delayed flight [Stay]"
+      }
+    },
+    "cancelationInteruptionTrip": {
+      "earlyTripCancelationExpenses": "Early travel cancellation",
+      "tripInterruptionExpenses": "Trip interruption"
+    },
+    "luggage": {
+      "baggageLossTheftDamageExpenses": "Loss, damage or theft of luggage",
+      "carryPersonalLuggageExpenses": "Transport of personal luggage",
+      "carryForgottenObjectExpenses": "Transport of forgotten objects",
+      "documentsLossTheftExpenses": "Loss or Theft of Documents",
+      "delayOnBaggageReceptionExpenses": "Luggage Reception Delay",
+      "safesOpenRepairExpenses": "Opening and Repairing Safes and Safety Boxes",
+      "homeKeysLossExpenses": "Loss of Keys to Usual Home"
+    },
+    "personalAccidents": {
+      "deathOrPermanentDisabilityExpenses": "Death or permanent disability",
+      "temporaryCapacityLossExpenses": "Absolute Temporary Disability",
+      "funeralExpensesExpenses": "Funeral expenses"
+    },
+    "civilResponsability": {
+      "civilResponsabilityExpenses": "Civil responsability"
+    },
+    "adventure": {
+      "searchRescueOnSkiResortExpenses": "Ski Resort Expenses and Rescue",
+      "refundSkiLessons": "Refund of Ski Pass and Classrooms"
+    }
+  },
+  "summary": {
+    "travel": {
+      "title": "Your Policy",
+      "subtitle": "Fill in all the data about the policyholder and the insured person.",
+      "forms": {
+        "account_holder": {
+          "title": "Policy Holder Data",
+          "fields": {
+            "name": {
+              "title": "Full name",
+              "error": "You still need to fill this field"
+            },
+            "Civil Status": {
+              "title": "Full name",
+              "error": "You still need to fill this field"
+            },
+            "birthday": {
+              "title": "Date of birth",
+              "error": "Choose an option"
+            },
+            "sex": {
+              "title": "Sex (F/M)",
+              "error": "You have to choose an option"
+            },
+            "nif": {
+              "title": "Tax Identification Number (TIN)",
+              "error": "You must indicate the number"
+            },
+            "address": {
+              "title": "Address",
+              "error": "You still need to fill this field"
+            },
+            "postalcode": {
+              "title": "Postal Code",
+              "error": "You still need to fill this field"
+            },
+            "contact": {
+              "title": "Primary Contact Number",
+              "error": "Choose an option"
+            },
+            "email": {
+              "title": "Email address",
+              "error": "You still need to fill this field"
+            },
+            "mudeyterms": {
+              "title": "I accept the Data Protection Policy and Terms of Use of the MUDEY Website",
+              "error": "You still need to fill this field"
+            }
+          }
+        },
+        "travelers": {
+          "title": "Data of the Traveler (s)",
+          "traveler_text": "Traveler",
+          "is_policyholder": "The policyholder is the traveler 1"
+        },
+        "payment": {
+          "title": "Payment Information",
+          "fields": {
+            "payment_anual": {
+              "title": "Payment options",
+              "error": "You still need to fill this field"
+            },
+            "carddetails": {
+              "title": "Card details",
+              "error": "You still need to fill this field"
+            }
+          }
+        },
+        "declarations": {
+          "title": "Important statements",
+          "fields": {
+            "paymentoptions": {
+              "title": "By checking this box, you confirm that you have read and agree to our terms and conditions, that you have carefully read the Insurance Product Information Document.",
+              "error": "You still need to fill this field"
+            }
+          },
+          "actions": {
+            "advance_button_text": "ADVANCE"
+          }
+        }
+      }
+    },
+    "package_info": {
+      "coverage": {
+        "title": "RESUMO DA COBERTURA"
+      },
+      "details": {
+        "title": "MEUS DETALHES"
+      },
+      "insurance": {
+        "title": "SOBRE A SEGURADORA"
+      },
+      "insurance_resume": {
+        "title": "IMPORTANT EXCLUSIONS"
+      },
+      "documents": {
+        "title": "DOCUMENTOS IMPORTANTES"
+      }
+    },
+    "actions": {
+      "back_button_text": "Back to results",
+      "close": "CLOSE"
+    }
+  }
+}
